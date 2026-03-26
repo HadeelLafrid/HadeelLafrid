@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🛠  Tools</h3>
+<h3 align="center">🛠  Tools</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">🌐 Languages</p>
+<h3 align="center">🌐 Languages</h3>
 
 ###
 
