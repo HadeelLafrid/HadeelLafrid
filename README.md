@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">🎓 Studying Artificial Intelligence at ENSIA<br>🧠 Interested in Data Mining, NLP, and Retrieval-Augmented Generation (RAG)<br>🤖 Exploring Robotics and autonomous systems<br>📈 Always learning and building AI projects</h4>
+<h4 align="center">🎓 Studying Artificial Intelligence at ENSIA<br>🧠 Interested in Data Mining, NLP, and Retrieval-Augmented Generation (RAG)<br>🤖 Exploring Robotics and autonomous systems<br>📈 Always learning and building AI projects</h4>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -48,7 +48,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
@@ -91,6 +91,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HadeelLafrid/HadeelLafrid/output/pacman-contribution-graph-dark.svg">
