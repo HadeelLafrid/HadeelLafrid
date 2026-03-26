@@ -8,10 +8,6 @@
 
 ###
 
-<h5 align="left">👨‍💻 AI Engineering Student (3rd year) at ENSIA<br><br>I’m passionate about building intelligent systems that combine Data Mining, NLP, RAG, and Robotics to solve real-world problems.</h5>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HadeelLafrid.HadeelLafrid&"  />
 </div>
@@ -22,7 +18,7 @@
 
 ###
 
-<h6 align="left">🎓 Studying Artificial Intelligence at ENSIA<br>🧠 Interested in Data Mining, NLP, and Retrieval-Augmented Generation (RAG)<br>🤖 Exploring Robotics and autonomous systems<br>📈 Always learning and building AI projects</h6>
+<h4 align="left">🎓 Studying Artificial Intelligence at ENSIA<br>🧠 Interested in Data Mining, NLP, and Retrieval-Augmented Generation (RAG)<br>🤖 Exploring Robotics and autonomous systems<br>📈 Always learning and building AI projects</h4>
 
 ###
 
