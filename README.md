@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salam Salam, 👋 i am HADIL LAFRID 
 
 <!--
 **HadeelLafrid/HadeelLafrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
