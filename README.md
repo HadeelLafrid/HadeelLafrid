@@ -449,10 +449,10 @@
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?/ --> -->
 <div align="center">
-    <img width=300 src="./assets/main.gif"/>    
+    <img width=300 src="https://i.pinimg.com/originals/e6/c2/fb/e6c2fb81cf7842af11714c6ee5891736.gif"/>    
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+DIMFLIX!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=FF69B4&center=true&repeat=false&width=700&height=60&lines=Greetings%2C+wanderer!+I'm+Hadil+Lafrid!" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -565,19 +565,21 @@
 ### 📊 Vital Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiradEmami&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HadeelLafrid&theme=default&background=FFFFFF&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=888888&stroke=FF69B4" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiradEmami&theme=radical" alt="GitHub profile contribution summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HadeelLafrid&theme=default" alt="GitHub profile contribution summary" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HiradEmami&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HadeelLafrid&show_icons=true&theme=default&bg_color=ffffff&title_color=FF69B4&icon_color=FF1493&text_color=333333&border_color=FF69B4" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeelLafrid&layout=donut&theme=default&bg_color=ffffff&title_color=FF69B4&text_color=333333&border_color=FF69B4" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Code time" />
+  <img src="https://komarev.com/ghpvc/?username=HadeelLafrid&label=PROFILE%20VIEWS&color=FF69B4&style=flat-square" alt="Views" />
 </p>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
