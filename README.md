@@ -102,11 +102,7 @@
 
 ### -->
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:11998e,100:38ef7d&text=السلام%20عليكم%20👋&fontAlignY=38&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
 
 <div align="center">
 
@@ -123,22 +119,7 @@
 
 ---
 
-## 👩‍💻 About Me
 
-```python
-class HadilLafrid:
-
-    location     = "Algeria 🇩🇿"
-    education    = "Artificial Intelligence @ ENSIA"
-
-    interests    = ["NLP", "RAG Systems", "LLMs", "Computer Vision", "Robotics"]
-
-    learning     = ["MLOps", "FastAPI", "Docker", "LLM Deployment"]
-
-    fun_fact     = "I debug with tea ☕ and Arabic music 🎵"
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -229,17 +210,7 @@ class HadilLafrid:
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HadeelLafrid/HadeelLafrid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HadeelLafrid/HadeelLafrid/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/HadeelLafrid/HadeelLafrid/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
