@@ -1,4 +1,4 @@
-<h2 align="left">Salam Salam 👋 I am Hadil Lafrid</h2>
+<!-- <h2 align="left">Salam Salam 👋 I am Hadil Lafrid</h2>
 
 ###
 
@@ -100,4 +100,168 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HadeelLafrid/HadeelLafrid/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
+
+<div align="center">
+
+# Salam Salam 👋 I'm Hadil Lafrid
+
+### 🎓 Artificial Intelligence Student at ENSIA
+### 🧠 NLP • RAG • Machine Learning • Robotics
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:84fab0,100:8fd3f4&text=Hadil%20Lafrid&fontAlignY=40&fontSize=50&fontColor=ffffff"/>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Artificial Intelligence student at ENSIA
+- 🧠 Interested in Natural Language Processing (NLP)
+- 🔍 Exploring Retrieval-Augmented Generation (RAG)
+- 🤖 Passionate about Robotics and Autonomous Systems
+- 📚 Currently learning LLMs, MLOps and AI Deployment
+- 🚀 Always building and experimenting with AI projects
+
+---
+
+## 🚀 Current Focus
+
+```python
+class HadilLafrid:
+
+    education = "Artificial Intelligence @ ENSIA"
+
+    interests = [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "RAG Systems",
+        "Robotics",
+        "Computer Vision"
+    ]
+
+    currently_learning = [
+        "LLMs",
+        "MLOps",
+        "FastAPI",
+        "Docker"
+    ]
+```
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,php,dart" />
+
+### AI / Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,anaconda,mysql" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HadeelLafrid&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeelLafrid&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## ⚡ Contribution Stats
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=HadeelLafrid&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HadeelLafrid&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HadeelLafrid&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hadil-lafrid-9a6b492a5/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hadil.lafrid@ensia.edu.dz">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Hadiliyalaf">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=HadeelLafrid&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HadeelLafrid/HadeelLafrid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HadeelLafrid/HadeelLafrid/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/HadeelLafrid/HadeelLafrid/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<div align="center">
+
+### 💚 Thanks for visiting my profile 💚
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:84fab0,100:8fd3f4&section=footer"/>
