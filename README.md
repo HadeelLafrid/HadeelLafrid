@@ -104,12 +104,20 @@
 
 <div align="center">
 
-# Salam Salam 👋 I'm Hadil Lafrid
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:11998e,100:38ef7d&text=السلام%20عليكم%20👋&fontAlignY=38&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-### 🎓 Artificial Intelligence Student at ENSIA
-### 🧠 NLP • RAG • Machine Learning • Robotics
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:84fab0,100:8fd3f4&text=Hadil%20Lafrid&fontAlignY=40&fontSize=50&fontColor=ffffff"/>
+<div align="center">
+
+# I'm Hadil Lafrid
+
+### 🎓 AI Student @ ENSIA · Algeria
+### Building at the intersection of **NLP · RAG · ML · Robotics**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hadil_Lafrid-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadil-lafrid-9a6b492a5/)
+[![Email](https://img.shields.io/badge/Email-hadil.lafrid@ensia.edu.dz-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hadil.lafrid@ensia.edu.dz)
+[![Telegram](https://img.shields.io/badge/Telegram-@Hadiliyalaf-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Hadiliyalaf)
 
 </div>
 
@@ -117,60 +125,57 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Artificial Intelligence student at ENSIA
-- 🧠 Interested in Natural Language Processing (NLP)
-- 🔍 Exploring Retrieval-Augmented Generation (RAG)
-- 🤖 Passionate about Robotics and Autonomous Systems
-- 📚 Currently learning LLMs, MLOps and AI Deployment
-- 🚀 Always building and experimenting with AI projects
-
----
-
-## 🚀 Current Focus
-
 ```python
 class HadilLafrid:
 
-    education = "Artificial Intelligence @ ENSIA"
+    location     = "Algeria 🇩🇿"
+    education    = "Artificial Intelligence @ ENSIA"
 
-    interests = [
-        "Machine Learning",
-        "Deep Learning",
-        "Natural Language Processing",
-        "RAG Systems",
-        "Robotics",
-        "Computer Vision"
-    ]
+    interests    = ["NLP", "RAG Systems", "LLMs", "Computer Vision", "Robotics"]
 
-    currently_learning = [
-        "LLMs",
-        "MLOps",
-        "FastAPI",
-        "Docker"
-    ]
+    learning     = ["MLOps", "FastAPI", "Docker", "LLM Deployment"]
+
+    fun_fact     = "I debug with tea ☕ and Arabic music 🎵"
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### 🧠 AI & Data Science
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,php,dart" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-### AI / Data Science
+### 💻 Languages & Web
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+### 🔧 Tools & DevOps
 
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,anaconda,mysql" />
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</p>
 
 </div>
 
@@ -180,29 +185,31 @@ class HadilLafrid:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HadeelLafrid&show_icons=true&theme=tokyonight&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HadeelLafrid&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=38ef7d&icon_color=11998e&text_color=ffffff&ring_color=38ef7d"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HadeelLafrid&show_icons=true&theme=merko&hide_border=true&bg_color=f0fdf4&title_color=11998e&icon_color=11998e&text_color=1a1a1a&ring_color=38ef7d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HadeelLafrid&show_icons=true&theme=merko&hide_border=true"/>
+</picture>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeelLafrid&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## ⚡ Contribution Stats
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=HadeelLafrid&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeelLafrid&layout=donut&theme=merko&hide_border=true&bg_color=0d1117&title_color=38ef7d&text_color=ffffff"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeelLafrid&layout=donut&theme=merko&hide_border=true&bg_color=f0fdf4&title_color=11998e&text_color=1a1a1a"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeelLafrid&layout=donut&theme=merko&hide_border=true"/>
+</picture>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak & Contributions
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HadeelLafrid&theme=tokyonight&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HadeelLafrid&theme=merko&hide_border=true&background=0d1117&ring=38ef7d&fire=11998e&currStreakLabel=38ef7d"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=HadeelLafrid&theme=merko&hide_border=true&background=f0fdf4&ring=11998e&fire=11998e&currStreakLabel=11998e"/>
+  <img src="https://streak-stats.demolab.com?user=HadeelLafrid&theme=merko&hide_border=true"/>
+</picture>
 
 </div>
 
@@ -212,37 +219,11 @@ class HadilLafrid:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HadeelLafrid&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/hadil-lafrid-9a6b492a5/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:hadil.lafrid@ensia.edu.dz">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://t.me/Hadiliyalaf">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=HadeelLafrid&label=Profile%20Views&color=0e75b6&style=flat"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HadeelLafrid&theme=mergo&hide_border=true&bg_color=0d1117&color=38ef7d&line=11998e&point=38ef7d"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HadeelLafrid&theme=mergo&hide_border=true&bg_color=f0fdf4&color=11998e&line=11998e&point=11998e"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HadeelLafrid&theme=mergo&hide_border=true"/>
+</picture>
 
 </div>
 
@@ -250,18 +231,24 @@ class HadilLafrid:
 
 ## 🐍 Contribution Snake
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HadeelLafrid/HadeelLafrid/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HadeelLafrid/HadeelLafrid/output/github-contribution-grid-snake.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/HadeelLafrid/HadeelLafrid/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
+
 ---
 
 <div align="center">
 
-### 💚 Thanks for visiting my profile 💚
+<img src="https://komarev.com/ghpvc/?username=HadeelLafrid&label=Profile%20Views&color=11998e&style=flat-square"/>
+
+###  🌿
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:84fab0,100:8fd3f4&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:11998e,100:38ef7d&section=footer"/>
