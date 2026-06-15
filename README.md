@@ -62,61 +62,56 @@ alt="Typing SVG"
 <div align="center">
   <img src="./dvider.svg" width="100%">
 </div>
----
-
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
+---<table width="100%">
 <tr>
 
-<!-- LEFT: COLLAB -->
-<td width="33%" valign="top">
+<!-- LEFT -->
+<td width="50%" valign="top">
 
-<h2>🤝 Collaboration</h2>
+## 🤝 Collaboration
 
 I'm open to collaborating on:
 
-<ul>
-  <li>ML infrastructure projects</li>
-  <li>Reinforcement learning systems</li>
-  <li>Robotics & autonomous systems</li>
-  <li>Large-scale AI platforms</li>
-</ul>
+- 🧠 Machine Learning Projects
+- 📚 NLP & RAG Applications
+- 🤖 Robotics & Autonomous Systems
+- 💻 Open Source AI Projects
+- 🚀 Innovative AI Solutions
 
 </td>
 
-<!-- MIDDLE: PANEL -->
-<td width="34%" align="center" valign="middle">
-    <a href="docs/COLLAB.md">
-        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
-    </a>
-</td>
+<!-- RIGHT -->
+<td width="50%" valign="top" align="center">
 
-<!-- RIGHT: CONTACT -->
-<td width="33%" valign="top" align="center">
-
-<h2>📫 Contact</h2>
+## 📫 Contact Me
 
 <br>
 
-<a href="https://hirademami.github.io/">
-  <img src="https://img.shields.io/badge/Personal%20Website-hirademami.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
+<a href="mailto:hadil.lafrid@ensia.edu.dz">
+  <img src="https://img.shields.io/badge/Gmail-hadil.lafrid%40ensia.edu.dz-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <br><br>
 
-<a href="mailto:hirad.alagha@outlook.com">
-  <img src="https://img.shields.io/badge/email-hirad.alagha@outlook.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+<a href="https://www.linkedin.com/in/hadil-lafrid-9a6b492a5/">
+  <img src="https://img.shields.io/badge/LinkedIn-Hadil%20Lafrid-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <br><br>
 
-<a href="https://www.linkedin.com/in/hirad-alagha/">
-  <img src="https://img.shields.io/badge/linkedin-hirad--alagha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+<a href="https://t.me/Hadiliyalaf">
+  <img src="https://img.shields.io/badge/Telegram-@Hadiliyalaf-FF69B4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
 </table>
+<div align="center">
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F8A5C2&section=footer"/>
+
+</div>
 
 <p align="center">
 ⚡ Building scalable AI systems and machine learning infrastructure
