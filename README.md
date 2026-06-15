@@ -1,24 +1,25 @@
 <div align="center">
-    <img width=300 src="https://i.pinimg.com/originals/e6/c2/fb/e6c2fb81cf7842af11714c6ee5891736.gif"/>    
-    <br/>
-    <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=FF69B4&center=true&repeat=false&width=700&height=60&lines=Salam%2C+Salam!+I'm+Hadil+Lafrid!" alt="Typing SVG" /></a>
+   
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=FF69B4&center=true&repeat=false&width=700&height=60&lines=Greetings%2C+wanderer!+I'm+Hadil+Lafrid!" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
 <samp>
-「 AI Engineering Student passionate about Machine Learning, NLP, RAG Systems, and Intelligent Applications. 」  
+「 Lead ML Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure 」  
 </samp>
 </p>
 
 <p align="center">
-    <img width=300 src="https://i.pinimg.com/originals/e6/c2/fb/e6c2fb81cf7842af11714c6ee5891736.gif"/>    
-    <br/>
-    <br/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Lead+Machine+Learning+Engineer;Designing+Scalable+ML+Platforms;Building+ML+Infrastructure;Distributed+Systems+%7C+MLOps+%7C+Production+AI"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated machine learning visual">
+ <img width=300 src="https://i.pinimg.com/originals/e6/c2/fb/e6c2fb81cf7842af11714c6ee5891736.gif"/>    
+    <br/>
+    <br/>
 </p>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
