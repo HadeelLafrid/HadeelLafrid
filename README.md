@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=%F0%9F%A7%A0+AI+Engineering+Student;%F0%9F%9A%80+Building+Machine+Learning+Projects;%F0%9F%93%9A+Exploring+NLP+and+RAG;%F0%9F%92%96+Passionate+About+Artificial+Intelligence"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=FF1493&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Building+NLP+and+RAG+Applications;Always+Learning+and+Creating"
 alt="Typing SVG"
 />
 </p>
