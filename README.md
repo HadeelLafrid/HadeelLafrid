@@ -1,19 +1,19 @@
 <div align="center">
     
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=FF69B4&center=true&repeat=false&width=700&height=60&lines=Greetings%2C+wanderer!+I'm+Hadil+Lafrid!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=FF69B4&center=true&repeat=false&width=700&height=60&lines=Salam%2C+Salam!+I'm+Hadil+Lafrid!" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
 <samp>
-「 Lead ML Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure 」  
+「 AI Engineering Student passionate about Machine Learning, NLP, RAG Systems, and Intelligent Applications. 」  
 </samp>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Lead+Machine+Learning+Engineer;Designing+Scalable+ML+Platforms;Building+ML+Infrastructure;Distributed+Systems+%7C+MLOps+%7C+Production+AI"
-    alt="Typing SVG"
-  />
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=AI+Engineering+Student+at+ENSIA;Building+AI+Projects+with+Python;Machine+Learning+%7C+NLP+%7C+RAG;Exploring+LLMs+and+Intelligent+Systems"
+alt="Typing SVG"
+/>
 </p>
 
 <p align="center">
