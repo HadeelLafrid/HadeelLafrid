@@ -60,7 +60,7 @@ alt="Typing SVG"
 </p>
 
 <div align="center">
-  <img src="./pink_divider.svg" width="100%">
+  <img src="./dvider.svg" width="100%">
 </div>
 ---
 
