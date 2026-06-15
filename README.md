@@ -33,7 +33,9 @@ alt="Typing SVG"
 <img width="1440" height="1038" alt="image" src="https://github.com/user-attachments/assets/f9ecc499-4ca5-4e40-9bda-383d49f1c41c" />
 
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF69B4"/>
+</div>
 
 ---
 
