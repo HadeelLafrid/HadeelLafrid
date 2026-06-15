@@ -27,6 +27,9 @@ alt="Typing SVG"
 ---
 
 # 🛠 Technologies, Projects, and Domains
+<div align="center">
+  <img src="./hexagonal_tech_stack.svg" width="100%">
+</div>
 
 <table border="0" cellspacing="10" cellpadding="0">
 <tr>
