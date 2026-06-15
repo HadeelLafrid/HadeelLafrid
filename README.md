@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=FF1493&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Building+NLP+and+RAG+Applications;Always+Learning+and+Creating"
+ <img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=AI+Engineering+Student+at+ENSIA;Building+AI+Projects+with+Python;Machine+Learning+%7C+NLP+%7C+RAG;AI+Enthusiast+Passionate+About+Innovation"
 alt="Typing SVG"
 />
 </p>
