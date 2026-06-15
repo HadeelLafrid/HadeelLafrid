@@ -1,5 +1,5 @@
 <div align="center">
-   
+    
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=FF69B4&center=true&repeat=false&width=700&height=60&lines=Greetings%2C+wanderer!+I'm+Hadil+Lafrid!" alt="Typing SVG" /></a>
 </div>
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <img width=300 src="https://i.pinimg.com/originals/e6/c2/fb/e6c2fb81cf7842af11714c6ee5891736.gif"/>    
+<img width=300 src="https://i.pinimg.com/originals/e6/c2/fb/e6c2fb81cf7842af11714c6ee5891736.gif"/>    
     <br/>
     <br/>
 </p>
