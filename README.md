@@ -22,7 +22,11 @@ alt="Typing SVG"
     <br/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF69B4"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,25"/>
+
+</div>
 ---
 
 # 🛠 Technologies, Projects, and Domains
