@@ -21,8 +21,9 @@ alt="Typing SVG"
     <br/>
     <br/>
 </p>
-
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=FF69B4&section=header"/>
+</div>
 ---
 
 # 🛠 Technologies, Projects, and Domains
