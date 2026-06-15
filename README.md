@@ -59,8 +59,56 @@ alt="Typing SVG"
   <img src="https://komarev.com/ghpvc/?username=HadeelLafrid&label=PROFILE%20VIEWS&color=FF69B4&style=flat-square" alt="Views" />
 </p>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+<svg width="1000" height="40" viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+    <linearGradient id="pinkGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB6C1"/>
+      <stop offset="50%" stop-color="#FF69B4"/>
+      <stop offset="100%" stop-color="#FF1493"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Upper track -->
+  <line x1="0" y1="12" x2="1000" y2="12"
+        stroke="url(#pinkGlow)"
+        stroke-width="3"
+        filter="url(#glow)"
+        opacity="0.6"/>
+
+  <!-- Lower track -->
+  <line x1="0" y1="28" x2="1000" y2="28"
+        stroke="url(#pinkGlow)"
+        stroke-width="3"
+        filter="url(#glow)"
+        opacity="0.6"/>
+
+  <!-- Moving orb 1 -->
+  <circle r="6" fill="#FF69B4" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite">
+      <mpath href="#path1"/>
+    </animateMotion>
+  </circle>
+
+  <!-- Moving orb 2 -->
+  <circle r="6" fill="#FFB6C1" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite">
+      <mpath href="#path2"/>
+    </animateMotion>
+  </circle>
+
+  <path id="path1" d="M0 12 L1000 12" fill="none"/>
+  <path id="path2" d="M1000 28 L0 28" fill="none"/>
+
+</svg>
 ---
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
